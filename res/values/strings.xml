@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mensa SWFR</string>
+    <string name="mensa">Ihre Mensa:</string>
+    <string name="warten">Bitte warten, der Speiseplan wird abgerufen&#8230;</string>
+    <string name="speiseplan">Speiseplan</string>
+    <string name="zeiten">Öffnungszeiten</string>
+    <string name="lage">Lage</string>
+    <string name="aktualisieren">Aktualisieren</string>
+    <string name="beenden">Beenden</string>
+    <string name="desc">Logo SWFR</string>
+    <string name="desc1">Pfeil</string>
+    <string name="nav">Navigation</string>
+</resources>

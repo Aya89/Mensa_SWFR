@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+     
+<LinearLayout android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:contentDescription="@string/desc"
+    	android:src="@drawable/logo_swfr"
+    	android:layout_marginBottom="15dp"
+    	android:layout_gravity="center"
+    	android:layout_marginTop="20dp"
+    	android:layout_height="wrap_content"
+    	android:layout_width="fill_parent"/>    	  
+    
+    <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="30dp">   
+	    <TextView
+	    	android:textColor="#333333"
+	    	android:layout_width="wrap_content"
+	    	android:layout_marginLeft="5dp"
+	    	android:textSize="20dp"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/mensa"/>
+	    <TextView
+	    	android:textColor="#333333"
+	    	android:layout_width="wrap_content"
+	    	android:layout_marginLeft="5dp"
+	    	android:textSize="20dp"
+	    	android:layout_height="wrap_content"
+	    	android:textStyle="bold" 
+	    	android:id="@+id/mensa_actual"/>
+    </LinearLayout>
+    		    
+   	<Button android:id="@+id/button1"
+		android:text="@string/speiseplan"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+	<TextView
+	    	android:textColor="#333333"
+	    	android:layout_width="wrap_content"
+	    	android:layout_marginLeft="5dp"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/time"/>
+	<TextView
+	    	android:textColor="#DF0024"
+	    	android:layout_width="wrap_content"
+	    	android:layout_marginLeft="5dp"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/refresh"/>
+
+	<Button android:id="@+id/button2"
+		android:text="@string/zeiten"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+	
+	<Button android:id="@+id/button3"
+		android:text="@string/lage"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+		
+	<Button android:id="@+id/button5"
+		android:text="@string/aktualisieren"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+	
+	<Button android:id="@+id/button4"
+		android:text="@string/beenden"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+
+</LinearLayout>
