@@ -44,3 +44,8 @@ Ich freue mich über interessierte Studenten, die an diesem Projekt mitarbeiten w
 Da ich mein Studium abgeschlossen habe und die App entsprechend selten nutze, fällt es mir schwer auf dem Laufenden zu bleiben.
 
 Danke :)
+
+
+Android Market
+------------
+Zu finden ist die App im Android Market unter: https://play.google.com/store/apps/details?id=mensa.swfr&feature=search_result#?t=W251bGwsMSwxLDEsIm1lbnNhLnN3ZnIiXQ..
