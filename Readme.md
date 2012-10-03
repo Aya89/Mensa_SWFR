@@ -7,6 +7,8 @@ Diese App ermöglicht das komfortable Ansehen und Speichern der Speisepläne von d
 Die Speisepläne der ausgewählten Mensa werden für die folgenden 3 Wochen runtergeladen und auf dem Smartphone gespeichert.
 Da dies eine privat entwickelte App ist, besteht kein Anspruch auf Vollständigkeit und Korrektheit der Daten. Quelle ist das Studentenwerk Freiburg (www.studentenwerk.uni-freiburg.de)
 
+![](https://raw.github.com/mag89/Mensa_SWFR/readme/MensaSWFR_1.png)
+
 
 Folgende Standorte werden unterstützt:
 -------
