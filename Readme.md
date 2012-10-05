@@ -1,18 +1,18 @@
 Mensa SWFR
 =============
 
-Anzeige und Speicherung der Mensa-Speisepläne von dem Studentenwerk Freiburg
-Diese App ermöglicht das komfortable Ansehen und Speichern der Speisepläne von den Mensen des Studentenwerks Freiburg.
+Anzeige und Speicherung der Mensa-SpeiseplÃ¤ne von dem Studentenwerk Freiburg
+Diese App ermÃ¶glicht das komfortable Ansehen und Speichern der SpeiseplÃ¤ne von den Mensen des Studentenwerks Freiburg.
 
-Die Speisepläne der ausgewählten Mensa werden für die folgenden 3 Wochen runtergeladen und auf dem Smartphone gespeichert.
-Da dies eine privat entwickelte App ist, besteht kein Anspruch auf Vollständigkeit und Korrektheit der Daten. Quelle ist das Studentenwerk Freiburg (www.studentenwerk.uni-freiburg.de)
+Die SpeiseplÃ¤ne der ausgewÃ¤hlten Mensa werden fÃ¼r die folgenden 3 Wochen runtergeladen und auf dem Smartphone gespeichert.
+Da dies eine privat entwickelte App ist, besteht kein Anspruch auf VollstÃ¤ndigkeit und Korrektheit der Daten. Quelle ist das Studentenwerk Freiburg (www.studentenwerk.uni-freiburg.de)
 
 ![](https://raw.github.com/Mag89/Mensa_SWFR/master/readme/MensaSWFR_1.png)
 
 
-Folgende Standorte werden unterstützt:
+Folgende Standorte werden unterstÃ¼tzt:
 -------
-* Freiburg Rempartstraße (auch Bio-Linie)
+* Freiburg RempartstraÃŸe (auch Bio-Linie)
 * Freiburg Institutsviertel
 * Freiburg Littenweiler
 * Freiburg Flugplatz
@@ -28,22 +28,28 @@ Folgende Standorte werden unterstützt:
 Geplante Features:
 -------
 * Preise
-* Widget zur Anzeige des Tagesmenüs
+* Widget zur Anzeige des TagesmenÃ¼s
 
 
-Erklärung zu den benötigen Rechten der App:
+ErklÃ¤rung zu den benÃ¶tigen Rechten der App:
 -------
-* UNEINGESCHRÄNKTER INTERNETZUGRIFF: Wird benötigt um den Speiseplan zu laden.
+* UNEINGESCHRÃ„NKTER INTERNETZUGRIFF:  Wird benÃ¶tigt um den Speiseplan zu laden
 
 
 
 Contributing
 ------------
 
-Ich freue mich über interessierte Studenten, die an diesem Projekt mitarbeiten wollen.
-Da ich mein Studium abgeschlossen habe und die App entsprechend selten nutze, fällt es mir schwer auf dem Laufenden zu bleiben.
+Ich freue mich Ã¼ber interessierte Studenten, die an diesem Projekt mitarbeiten wollen.
+Da ich mein Studium abgeschlossen habe und die App entsprechend selten nutze, fÃ¤llt es mir schwer auf dem Laufenden zu bleiben.
 
 Danke :)
+
+bisher Beteiligte
+-------
+* Gabi Manz
+* David Wenckebach
+* Jannik Abbenseth
 
 
 Android Market

@@ -78,8 +78,16 @@ public class ReadURL {
         	case 18:
         	case 19: week = 2; break;
        }
-          
-        returner[0]=inhalt[1];
+        try
+        {
+        
+        	returner[0]=inhalt[1];
+        }
+        catch (Exception e)
+        {
+        	returner[0]="";
+        	Log.e('Parse Error','Parsing from settings.dat went wrong. Need update')
+        }
         returner[1]=""+week;
         if(x>12) r = 1;
 	    return returner;//gibt mensa_id zurück
